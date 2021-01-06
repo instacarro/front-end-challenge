@@ -8,3 +8,11 @@ Also it must has an public area a.k.a `Marketplace Area` to display all of these
 - Use TypeScript 
 - React 
 - NextJS
+- Use `GitHub` to clone this repository and open a pull request following this pattern: `feature/your-full-goes-here`
+- A `README.md` documenting how to run the project
+
+### Optional and Plus
+- Try to make a container using `Docker` which builds a fresh and an usable image to deploy your project. 
+
+### Questions
+- Mail me `anderson.anzileiro@instacarro.com`
