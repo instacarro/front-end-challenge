@@ -12,6 +12,8 @@ Also it must has an public area a.k.a `Marketplace Area` to display all of these
 - A `README.md` documenting how to run the project
 
 ### Optional and Plus
+- Unit Tests
+- Component Tests
 - Try to make a container using `Docker` which builds a fresh and an usable image to deploy your project. 
 
 ### Questions
