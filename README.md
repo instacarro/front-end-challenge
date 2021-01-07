@@ -14,6 +14,7 @@ Also it must has an public area a.k.a `Marketplace Area` to display all of these
 ### Optional and Plus
 - Unit Tests
 - Component Tests
+- On the `Marketplace Area` a filter of cars by `Make`, `Model`, `Year` and `Used KM`.
 - Try to make a container using `Docker` which builds a fresh and an usable image to deploy your project. 
 
 ### Questions
